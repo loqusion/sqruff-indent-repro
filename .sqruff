@@ -1,0 +1,4 @@
+[sqruff]
+dialect = sqlite
+
+# vim: ft=ini
